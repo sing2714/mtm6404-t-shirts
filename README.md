@@ -4,7 +4,7 @@
 Use the React framework and the provided files to create a t-shirt storefront.
 
 
-WHY I WAS SUBMiSSION 
+
 
 Hi Professor
 
